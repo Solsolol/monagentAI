@@ -22,8 +22,9 @@ Read the [quickstart guide](https://docs.browser-use.com/quickstart#prepare-the-
 #### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/browser-use/web-ui.git
-mkdir web-ui
-mv .* web-ui/
+```
+se positionner sur : 
+```bash
 cd web-ui
 ```
 
